@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://chenxiaojiao.github.io/about/index.html</loc>
+    
+    <lastmod>2016-11-03T07:34:26.271Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://chenxiaojiao.github.io/404/index.html</loc>
     
     <lastmod>2016-11-03T07:31:18.963Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://chenxiaojiao.github.io/tags/index.html</loc>
     
     <lastmod>2016-11-03T07:29:49.460Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://chenxiaojiao.github.io/about/index.html</loc>
-    
-    <lastmod>2016-11-03T07:29:30.310Z</lastmod>
     
   </url>
   
